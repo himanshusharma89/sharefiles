@@ -1,15 +1,17 @@
 # Sharefiles
 
 A new Flutter project in which we use the share package to share the files. Yes you read it right, checkout this article abouthow we do this: 
-<img src="https://github.com/himanshusharma89/sharefiles/blob/master/SharingFiles.gif"/>
+
+
+<img src="https://github.com/himanshusharma89/sharefiles/blob/master/SharingFiles.gif" width="60%"/>
 
 #
 
 ## Screenshot and Share
-<img src="https://github.com/himanshusharma89/sharefiles/blob/master/Screenshot%26Share.gif"/>
+<img src="https://github.com/himanshusharma89/sharefiles/blob/master/Screenshot%26Share.gif" width="40%"/>
 
 ## URL conversion and Share
-<img src="https://github.com/himanshusharma89/sharefiles/blob/master/Conversion%26Share.gif"/>
+<img src="https://github.com/himanshusharma89/sharefiles/blob/master/Conversion%26Share.gif" width="40%"/>
 
 ## Getting Started
 
