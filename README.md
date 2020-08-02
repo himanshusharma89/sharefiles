@@ -1,6 +1,6 @@
-# sharefiles
+# Sharefiles
 
-A new Flutter project.
+A new Flutter project in which we use the share package to share the files. Yes you read it right, checkout this article abouthow we do this: 
 
 ## Getting Started
 
