@@ -5,13 +5,13 @@ A new Flutter project in which we use the share package to share the files. Yes 
 
 <img src="https://github.com/himanshusharma89/sharefiles/blob/master/SharingFiles.gif" width="60%"/>
 
-#
+
 
 ## Screenshot and Share
-<img src="https://github.com/himanshusharma89/sharefiles/blob/master/Screenshot%26Share.gif" width="40%"/>
+<img src="https://github.com/himanshusharma89/sharefiles/blob/master/Screenshot%26Share.gif" width="20%" height="50%"/>
 
 ## URL conversion and Share
-<img src="https://github.com/himanshusharma89/sharefiles/blob/master/Conversion%26Share.gif" width="40%"/>
+<img src="https://github.com/himanshusharma89/sharefiles/blob/master/Conversion%26Share.gif" width="20%" height="50%"/>
 
 ## Getting Started
 
