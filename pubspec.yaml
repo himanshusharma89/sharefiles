@@ -34,6 +34,7 @@ dependencies:
       path: packages/share
   path_provider: ^1.6.11
   http: ^0.12.0+4
+  google_fonts: ^1.1.0
 
 dev_dependencies:
   flutter_test:
