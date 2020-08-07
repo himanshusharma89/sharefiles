@@ -1,6 +1,8 @@
 # Sharefiles
 
-A new Flutter project in which we use the share package to share the files. Yes you read it right, checkout this article abouthow we do this: 
+A new Flutter project in which we use the share package to share the files. 
+
+**Yes you read it right, checkout this article about how we do this:** [Sharing files using share packge](https://medium.com/flutter-community/flutter-sharing-files-using-share-package-45103d7a21cb)**
 
 
 <img src="https://github.com/himanshusharma89/sharefiles/blob/master/SharingFiles.gif" width="60%"/>
